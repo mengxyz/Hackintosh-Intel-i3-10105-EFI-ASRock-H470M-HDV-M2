@@ -12,6 +12,8 @@ cpu 10105
 2.显示器HDMI音频正常使用  
 3.USB接口没有定制，没有勾选xhciportlimit  
 
+此版本open core可以引导win10 mac 双系统
+
 # 配置文件网上搜集，摸索，不解决其他问题，只驱动核显和hdmi音频。
 
 # 其他  
