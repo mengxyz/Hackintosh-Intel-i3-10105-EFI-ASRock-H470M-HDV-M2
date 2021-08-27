@@ -6,7 +6,7 @@ cpu 10105
   
 # 2 更新历史  
 ### 2021.08.26  
-### opencore引导 版本 0.7.2  
+### opencore引导 版本 0.7.1  
 已知功能，其他未测试  
 1.核显uhd 630驱动成功  
 2.显示器HDMI音频正常使用  
@@ -17,7 +17,7 @@ cpu 10105
 # 配置文件网上搜集，摸索，不解决其他问题，只驱动核显和hdmi音频。
 
 # 其他  
-核显驱动原链接 https://github.com/DucAnhVuiVe/Hackintosh-Asus-Z490-G-Gaming-Wifi-i3-10100 音频在open core 0.7.2 上无法使用  只使用过核显pci文件，其他未知。
+核显驱动原链接 https://github.com/DucAnhVuiVe/Hackintosh-Asus-Z490-G-Gaming-Wifi-i3-10100 音频在open core 0.7.1 上无法使用  只使用过核显pci文件，其他未知。
 
 HDMI 音频驱动原链接 https://github.com/Fu-Yuxuan-hub/ASUS-TUF-GAMING-B460M-PLUS-HACKINTOSH 更改 layout-id=7 hda-gfx=onboard-1 （这个参数经测试需要加，不加音频无法使用）device-id 709D0000  只使用过音频pci文件，其他未知。
 
