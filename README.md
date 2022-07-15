@@ -1,3 +1,35 @@
+Monterey 12.4
+
+## Spec
+
+CPU: i3 10105
+
+MB: Asrock H470M hdv/m2
+
+RAM: Hikvision 32GB 16x2 2666
+
+STORAGE: WD Blue SN570 500GB NVMe
+
+<img src="./ART/img_1.png"/>
+
+
+### working
+
+- HDMI with Audio
+- Audio all back and front panel
+- USB 2 and 3 (must be map to own build)
+- Network
+- Sleep and Wake
+
+### Not test yet
+
+- VGA and DVI Port
+- Multi Display Output
+
+### RIGINAL README
+
+---
+
 # 1 电脑参数
 cpu 10105  
 主板 Asrock H470M hdv/m2  
@@ -20,7 +52,7 @@ cpu 10105
 核显驱动原链接 https://github.com/DucAnhVuiVe/Hackintosh-Asus-Z490-G-Gaming-Wifi-i3-10100 音频在open core 0.7.1 上无法使用  只使用过核显pci文件，其他未知。
 
 HDMI 音频驱动原链接 https://github.com/Fu-Yuxuan-hub/ASUS-TUF-GAMING-B460M-PLUS-HACKINTOSH 更改 layout-id=7 hda-gfx=onboard-1 （这个参数经测试需要加，不加音频无法使用）device-id 709D0000  只使用过音频pci文件，其他未知。
-
+-
 主板后音频接口使用(主板内置音频) 链接 https://github.com/vvvc/Hackintosh-OC-10500-ASRock-H470M-iTX-RX5500XT 只使用过音频pci文件，其他未知。  
 
 其他功能未知
